@@ -1,0 +1,7 @@
+C:\Users\joaop\Downloads\Lista09_AED\Lista09_AED\Questao01\bin\Debug\Questao01.exe.config
+C:\Users\joaop\Downloads\Lista09_AED\Lista09_AED\Questao01\bin\Debug\Questao01.exe
+C:\Users\joaop\Downloads\Lista09_AED\Lista09_AED\Questao01\bin\Debug\Questao01.pdb
+C:\Users\joaop\Downloads\Lista09_AED\Lista09_AED\Questao01\obj\Debug\Questao01.csproj.AssemblyReference.cache
+C:\Users\joaop\Downloads\Lista09_AED\Lista09_AED\Questao01\obj\Debug\Questao01.csproj.CoreCompileInputs.cache
+C:\Users\joaop\Downloads\Lista09_AED\Lista09_AED\Questao01\obj\Debug\Questao01.exe
+C:\Users\joaop\Downloads\Lista09_AED\Lista09_AED\Questao01\obj\Debug\Questao01.pdb

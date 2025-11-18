@@ -1,0 +1,14 @@
+C:\Users\1205493\Downloads\Lista09_AED\Lista09_AED\Questao01_Vetor\bin\Debug\Questao01_Vetor.exe.config
+C:\Users\1205493\Downloads\Lista09_AED\Lista09_AED\Questao01_Vetor\bin\Debug\Questao01_Vetor.exe
+C:\Users\1205493\Downloads\Lista09_AED\Lista09_AED\Questao01_Vetor\bin\Debug\Questao01_Vetor.pdb
+C:\Users\1205493\Downloads\Lista09_AED\Lista09_AED\Questao01_Vetor\obj\Debug\Questao01_Vetor.csproj.AssemblyReference.cache
+C:\Users\1205493\Downloads\Lista09_AED\Lista09_AED\Questao01_Vetor\obj\Debug\Questao01_Vetor.csproj.CoreCompileInputs.cache
+C:\Users\1205493\Downloads\Lista09_AED\Lista09_AED\Questao01_Vetor\obj\Debug\Questao01_Vetor.exe
+C:\Users\1205493\Downloads\Lista09_AED\Lista09_AED\Questao01_Vetor\obj\Debug\Questao01_Vetor.pdb
+C:\Users\joaop\Downloads\Lista09_AED\Lista09_AED\Questao01_Vetor\bin\Debug\Questao01_Vetor.exe.config
+C:\Users\joaop\Downloads\Lista09_AED\Lista09_AED\Questao01_Vetor\bin\Debug\Questao01_Vetor.exe
+C:\Users\joaop\Downloads\Lista09_AED\Lista09_AED\Questao01_Vetor\bin\Debug\Questao01_Vetor.pdb
+C:\Users\joaop\Downloads\Lista09_AED\Lista09_AED\Questao01_Vetor\obj\Debug\Questao01_Vetor.csproj.AssemblyReference.cache
+C:\Users\joaop\Downloads\Lista09_AED\Lista09_AED\Questao01_Vetor\obj\Debug\Questao01_Vetor.csproj.CoreCompileInputs.cache
+C:\Users\joaop\Downloads\Lista09_AED\Lista09_AED\Questao01_Vetor\obj\Debug\Questao01_Vetor.exe
+C:\Users\joaop\Downloads\Lista09_AED\Lista09_AED\Questao01_Vetor\obj\Debug\Questao01_Vetor.pdb

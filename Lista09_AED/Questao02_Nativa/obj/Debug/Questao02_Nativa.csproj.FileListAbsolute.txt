@@ -1,0 +1,7 @@
+C:\Users\joaop\Downloads\Lista09_AED\Lista09_AED\Questao02_Nativa\bin\Debug\Questao02_Nativa.exe.config
+C:\Users\joaop\Downloads\Lista09_AED\Lista09_AED\Questao02_Nativa\bin\Debug\Questao02_Nativa.exe
+C:\Users\joaop\Downloads\Lista09_AED\Lista09_AED\Questao02_Nativa\bin\Debug\Questao02_Nativa.pdb
+C:\Users\joaop\Downloads\Lista09_AED\Lista09_AED\Questao02_Nativa\obj\Debug\Questao02_Nativa.csproj.AssemblyReference.cache
+C:\Users\joaop\Downloads\Lista09_AED\Lista09_AED\Questao02_Nativa\obj\Debug\Questao02_Nativa.csproj.CoreCompileInputs.cache
+C:\Users\joaop\Downloads\Lista09_AED\Lista09_AED\Questao02_Nativa\obj\Debug\Questao02_Nativa.exe
+C:\Users\joaop\Downloads\Lista09_AED\Lista09_AED\Questao02_Nativa\obj\Debug\Questao02_Nativa.pdb

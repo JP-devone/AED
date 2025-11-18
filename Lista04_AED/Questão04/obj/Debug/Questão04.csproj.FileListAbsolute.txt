@@ -1,0 +1,8 @@
+C:\Users\joaop\source\repos\Lista04_AED\Questão04\bin\Debug\Questão04.exe.config
+C:\Users\joaop\source\repos\Lista04_AED\Questão04\bin\Debug\Questão04.exe
+C:\Users\joaop\source\repos\Lista04_AED\Questão04\bin\Debug\Questão04.pdb
+C:\Users\joaop\source\repos\Lista04_AED\Questão04\obj\Debug\Questão04.csproj.AssemblyReference.cache
+C:\Users\joaop\source\repos\Lista04_AED\Questão04\obj\Debug\Questão04.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaop\source\repos\Lista04_AED\Questão04\obj\Debug\Questão04.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\Lista04_AED\Questão04\obj\Debug\Questão04.exe
+C:\Users\joaop\source\repos\Lista04_AED\Questão04\obj\Debug\Questão04.pdb

@@ -1,0 +1,8 @@
+C:\Users\joaop\source\repos\Lista02_Nivelamento\Questao02\bin\Debug\Questao02.exe.config
+C:\Users\joaop\source\repos\Lista02_Nivelamento\Questao02\bin\Debug\Questao02.exe
+C:\Users\joaop\source\repos\Lista02_Nivelamento\Questao02\bin\Debug\Questao02.pdb
+C:\Users\joaop\source\repos\Lista02_Nivelamento\Questao02\obj\Debug\Questao02.csproj.AssemblyReference.cache
+C:\Users\joaop\source\repos\Lista02_Nivelamento\Questao02\obj\Debug\Questao02.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaop\source\repos\Lista02_Nivelamento\Questao02\obj\Debug\Questao02.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\Lista02_Nivelamento\Questao02\obj\Debug\Questao02.exe
+C:\Users\joaop\source\repos\Lista02_Nivelamento\Questao02\obj\Debug\Questao02.pdb

@@ -1,0 +1,8 @@
+C:\Users\joaop\source\repos\Lista02_Nivelamento\QAuestao03\bin\Debug\QAuestao03.exe.config
+C:\Users\joaop\source\repos\Lista02_Nivelamento\QAuestao03\bin\Debug\QAuestao03.exe
+C:\Users\joaop\source\repos\Lista02_Nivelamento\QAuestao03\bin\Debug\QAuestao03.pdb
+C:\Users\joaop\source\repos\Lista02_Nivelamento\QAuestao03\obj\Debug\QAuestao03.csproj.AssemblyReference.cache
+C:\Users\joaop\source\repos\Lista02_Nivelamento\QAuestao03\obj\Debug\QAuestao03.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaop\source\repos\Lista02_Nivelamento\QAuestao03\obj\Debug\QAuestao03.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\Lista02_Nivelamento\QAuestao03\obj\Debug\QAuestao03.exe
+C:\Users\joaop\source\repos\Lista02_Nivelamento\QAuestao03\obj\Debug\QAuestao03.pdb

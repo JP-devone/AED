@@ -1,0 +1,6 @@
+C:\Users\1205493\source\repos\Lista05_AED\Questão02\bin\Debug\Questão02.exe.config
+C:\Users\1205493\source\repos\Lista05_AED\Questão02\bin\Debug\Questão02.exe
+C:\Users\1205493\source\repos\Lista05_AED\Questão02\bin\Debug\Questão02.pdb
+C:\Users\1205493\source\repos\Lista05_AED\Questão02\obj\Debug\Questão02.csproj.CoreCompileInputs.cache
+C:\Users\1205493\source\repos\Lista05_AED\Questão02\obj\Debug\Questão02.exe
+C:\Users\1205493\source\repos\Lista05_AED\Questão02\obj\Debug\Questão02.pdb

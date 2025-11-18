@@ -1,0 +1,7 @@
+C:\Users\1205493\source\repos\Lista05_AED\Questão03\bin\Debug\Questão03.exe.config
+C:\Users\1205493\source\repos\Lista05_AED\Questão03\bin\Debug\Questão03.exe
+C:\Users\1205493\source\repos\Lista05_AED\Questão03\bin\Debug\Questão03.pdb
+C:\Users\1205493\source\repos\Lista05_AED\Questão03\obj\Debug\Questão03.csproj.AssemblyReference.cache
+C:\Users\1205493\source\repos\Lista05_AED\Questão03\obj\Debug\Questão03.csproj.CoreCompileInputs.cache
+C:\Users\1205493\source\repos\Lista05_AED\Questão03\obj\Debug\Questão03.exe
+C:\Users\1205493\source\repos\Lista05_AED\Questão03\obj\Debug\Questão03.pdb

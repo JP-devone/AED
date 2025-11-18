@@ -1,0 +1,4 @@
+﻿Ronaldinho,8,Meio-campista
+Messi,10,Atacante
+Ronaldo,12,Centroavante
+Ronaldo,12,Centroavante
